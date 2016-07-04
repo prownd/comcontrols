@@ -1,0 +1,79 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/images/btn15_bg.png</file>
+        <file>resources/images/btn15_bg_disable.png</file>
+        <file>resources/images/btn15_bg_hover.png</file>
+        <file>resources/images/loading_1.png</file>
+        <file>resources/images/loading_2.png</file>
+        <file>resources/images/loading_3.png</file>
+        <file>resources/images/loading_4.png</file>
+        <file>resources/images/loading_5.png</file>
+        <file>resources/images/loading_6.png</file>
+        <file>resources/images/loading_7.png</file>
+        <file>resources/images/loading_8.png</file>
+        <file>resources/images/loading_9.png</file>
+        <file>resources/images/loading_10.png</file>
+        <file>resources/images/loading_11.png</file>
+        <file>resources/images/loading_12.png</file>
+        <file>resources/images/table_thead_bg.png</file>
+        <file>resources/images/page_number_current.png</file>
+        <file>resources/images/page_number.png</file>
+        <file>resources/images/input_error.png</file>
+        <file>resources/images/input_focus.png</file>
+        <file>resources/images/input.png</file>
+        <file>resources/images/input_drop_down.png</file>
+        <file>resources/images/tipsBox_error_center.png</file>
+        <file>resources/images/tipsBox_error_left.png</file>
+        <file>resources/images/tipsBox_error_right.png</file>
+        <file>resources/images/tipsBox_note_center.png</file>
+        <file>resources/images/tipsBox_note_left.png</file>
+        <file>resources/images/tipsBox_note_right.png</file>
+        <file>resources/images/tipsBox_succeed_center.png</file>
+        <file>resources/images/tipsBox_succeed_left.png</file>
+        <file>resources/images/tipsBox_succeed_right.png</file>
+        <file>resources/images/table_thead_bg_flat.png</file>
+        <file>resources/images/radioBtn_bg.png</file>
+        <file>resources/images/radioBtn_bg_select.png</file>
+        <file>resources/images/radioBtn_bg_hover.png</file>
+        <file>resources/images/handleMenu_pagination_next.png</file>
+        <file>resources/images/handleMenu_pagination_next_disable.png</file>
+        <file>resources/images/handleMenu_pagination_previous.png</file>
+        <file>resources/images/handleMenu_pagination_previous_disable.png</file>
+
+        <file>resources/images/input_left.png</file>
+        <file>resources/images/input_right.png</file>
+        <file>resources/images/input_upside.png</file>
+        <file>resources/images/input_bottom.png</file>
+        <file>resources/images/input_topLeft.png</file>
+        <file>resources/images/input_bottomLeft.png</file>
+        <file>resources/images/input_topRight.png</file>
+        <file>resources/images/input_bottomRight.png</file>
+
+        <file>resources/images/input_left_hover.png</file>  
+        <file>resources/images/input_right_hover.png</file>  
+        <file>resources/images/input_upside_hover.png</file>  
+        <file>resources/images/input_bottom_hover.png</file>  
+        <file>resources/images/input_topLeft_hover.png</file>  
+        <file>resources/images/input_bottomLeft_hover.png</file> 
+        <file>resources/images/input_bottomRight_hover.png</file>
+        <file>resources/images/input_topRight_hover.png</file> 
+
+        <file>resources/images/input_left_focus.png</file>
+        <file>resources/images/input_right_focus.png</file>
+        <file>resources/images/input_upside_focus.png</file>
+        <file>resources/images/input_bottom_focus.png</file>
+        <file>resources/images/input_topLeft_focus.png</file>
+        <file>resources/images/input_bottomLeft_focus.png</file>
+        <file>resources/images/input_bottomRight_focus.png</file>
+        <file>resources/images/input_topRight_focus.png</file>
+
+        <file>resources/images/input_left_error.png</file>
+        <file>resources/images/input_right_error.png</file>
+        <file>resources/images/input_upside_error.png</file>
+        <file>resources/images/input_bottom_error.png</file>
+        <file>resources/images/input_topLeft_error.png</file>
+        <file>resources/images/input_bottomLeft_error.png</file>
+        <file>resources/images/input_bottomRight_error.png</file>
+        <file>resources/images/input_topRight_error.png</file>
+    </qresource>
+</RCC>

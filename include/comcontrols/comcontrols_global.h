@@ -1,0 +1,12 @@
+#ifndef COMCONTROLS_GLOBAL_H
+#define COMCONTROLS_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(LCONTROLS_LIBRARY)
+#  define LCONTROLSSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define LCONTROLSSHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // COMCONTROLS_GLOBAL_H
