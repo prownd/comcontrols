@@ -3,7 +3,8 @@ qt common ui controls item library, simple and ease use, you can contain it in y
   
   
 #compile and install  
-qmake-qt4
+#qmake-qt4 comcontrols.pro
+qmake-qt4 
 make  
 make install  
  
