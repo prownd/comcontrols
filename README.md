@@ -3,13 +3,14 @@ qt common ui controls item library, you can contain it in your project
   
   
 #compile and install  
+qmake-qt4
 make  
 make install  
  
 
-after  compiled ,you can test it  
+#after  compiled ,you can test it  
 cd test   
-qmake   
+qmake-qt4
 make   
 ./test_controls_item   
   
