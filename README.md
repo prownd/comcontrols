@@ -1,5 +1,5 @@
 #describe
-qt common ui controls item library, simple and ease use, you can contain it in your project
+qt common ui controls item library, simple and ease use, you can contain it in your project.  note: it's base qt4 version.
   
   
 #compile and install  
